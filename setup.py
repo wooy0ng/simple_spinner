@@ -4,11 +4,11 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="wooy0ng", # Replace with your own username
+    name="simple_spinner", 
     version="0.1.0",
     author="wooy0ng",
     author_email="yygg9800@naver.com",
-    description="A Simple Spinner in python",
+    description="Simple Spinner in python",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/wooy0ng/simple_spinner",
