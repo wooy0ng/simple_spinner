@@ -1,6 +1,9 @@
 <div align="center">
+ 
  <h1> Simple Spinner </h1>
- <br>
+ <img src="https://user-images.githubusercontent.com/37149278/236219276-9553b362-3232-422e-abd6-ce169b0ff942.gif" width="700">
+ <br><br>
+ 
  It is a way to print a spinning cursor in terminal using Python.  <br />
  I referred <a href="https://stackoverflow.com/questions/4995733/how-to-create-a-spinning-command-line-cursor">this document</a>.<br/><br/>
 
