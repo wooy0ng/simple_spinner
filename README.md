@@ -4,7 +4,7 @@
  It is a way to print a spinning cursor in terminal using Python.  <br />
  I referred <a href="https://stackoverflow.com/questions/4995733/how-to-create-a-spinning-command-line-cursor">this document</a>.<br/><br/>
 
- "It just Simple Spinning Cursor."
+ "It's just Simple Spinning Cursor."
  
 <br>
 </div>
