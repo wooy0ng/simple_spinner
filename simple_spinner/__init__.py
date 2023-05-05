@@ -1,1 +1,1 @@
-from . import spinner
+from .spinner import Spinner
