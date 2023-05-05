@@ -23,7 +23,7 @@ pip install simple_spinner
 
 use `start, end` method
 ```python
-from simple_spinner.spinner import Spinner
+from simple_spinner import Spinner
 
 spinner = Spinner()
 spinner.start(desc='test')
@@ -35,7 +35,7 @@ spinner.stop()
 
 use `with` reserved word
 ```python
-from simple_spinner.spinner import Spinner
+from simple_spinner import Spinner
 
 with Spinner(desc='test'):
     time.sleep(3)
